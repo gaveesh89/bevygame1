@@ -44,8 +44,6 @@ index.html              # Web server fallback page
 
 ### Native Desktop (Recommended)
 
-```bash
-cd /Users/gaveeshjain/Documents/VScode/BevyGame1
 cargo run --release
 ```
 
